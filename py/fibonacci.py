@@ -1,5 +1,5 @@
 class Fibonacci(object):
-    """This is a simple fibonacci generator, called implicitly by __iter__()
+    """This is a simple OOP fibonacci generator, called implicitly by __iter__()
     example: 
     >>> for x in Fibonacci(5):
             print(X)
